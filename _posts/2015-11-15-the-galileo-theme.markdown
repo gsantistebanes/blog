@@ -6,7 +6,7 @@ categories: jekyll theme
 location: Cantabria, España
 ---
 
-Esta es mi primera entrada para este blog. Es la primera vez que me pongon ante el GitHub, para desarrollar un blog, con lo cual puede que resulte, sobre todo esta primera entrada un auténtico desastre.
+Esta es mi primera entrada para este blog. He visitado en algunas ocaciones GitHub, para consultar, pero no para participar en él y menos para intentar desarrollar un blog, con lo cual puede que el resultado sea un fracaso absoluto, sobre todo esta primera entrada.
 
 Suitable for shortform, longform, and probably even waveform. It is purpose-built to accomodate photographic content wonderfully and lends itself well to journaling your sojourn.
 
